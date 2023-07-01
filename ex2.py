@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import albumentations as A
 import glob
 import os
-
+# study https://albumentations.ai/docs/getting_started/image_augmentation/
 
 def visualize(image,count,type_):
     plt.figure(figsize=(150,90))
